@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 
-void main() => runApp(RoblesApp());
+void main() => runApp(KarlApp());
 
-class RoblesApp extends StatelessWidget {
+class KarlApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -14,7 +14,7 @@ class RoblesApp extends StatelessWidget {
       home: EsScaffold(title: 'Flutter Español por Karla'),
     ); // fin de material
   } // fin de widget
-} // fin de RoblesApp
+} // fin de KarlApp
 
 class EsScaffold extends StatefulWidget {
   EsScaffold({Key key, this.title}) : super(key: key);
