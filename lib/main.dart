@@ -83,7 +83,7 @@ class _EsScaffoldState extends State<EsScaffold> {
               FlutterLogo(
                 size: 30.0,
               ),
-              Text('bottomNavigationBar con BottomAppBar por Castañeda')
+             Text('BottomNavigationBar con BottomAppBar Castañeda')
             ],
           ),
         ),
